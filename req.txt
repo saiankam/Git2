@@ -1,0 +1,7 @@
+If your project only uses Python's built-in modules, you don't need a requirements.txt file.
+
+To install the packages:
+
+pip install -r requirements.txt
+
+To create one automatically from your current environment:
